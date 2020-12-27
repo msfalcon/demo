@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/msfalcon/demo/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/msfalcon/demo/static/js/main.810a84e1.chunk.js",
+    "main.js.map": "/msfalcon/demo/static/js/main.810a84e1.chunk.js.map",
+    "runtime-main.js": "/msfalcon/demo/static/js/runtime-main.b0f2cf36.js",
+    "runtime-main.js.map": "/msfalcon/demo/static/js/runtime-main.b0f2cf36.js.map",
+    "static/js/2.7b355129.chunk.js": "/msfalcon/demo/static/js/2.7b355129.chunk.js",
+    "static/js/2.7b355129.chunk.js.map": "/msfalcon/demo/static/js/2.7b355129.chunk.js.map",
+    "static/js/3.04b5569e.chunk.js": "/msfalcon/demo/static/js/3.04b5569e.chunk.js",
+    "static/js/3.04b5569e.chunk.js.map": "/msfalcon/demo/static/js/3.04b5569e.chunk.js.map",
+    "index.html": "/msfalcon/demo/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/msfalcon/demo/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7b355129.chunk.js.LICENSE.txt": "/msfalcon/demo/static/js/2.7b355129.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/msfalcon/demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0f2cf36.js",
+    "static/js/2.7b355129.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.810a84e1.chunk.js"
+  ]
+}
